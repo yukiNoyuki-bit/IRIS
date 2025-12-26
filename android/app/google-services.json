@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "525042968097",
+    "firebase_url": "https://smart-iris-default-rtdb.firebaseio.com",
+    "project_id": "smart-iris",
+    "storage_bucket": "smart-iris.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525042968097:android:23060b14d2bf630c1c2560",
+        "android_client_info": {
+          "package_name": "com.example.iris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdD_a1ITsvwrKov8z7PeBvrny0EBChBfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

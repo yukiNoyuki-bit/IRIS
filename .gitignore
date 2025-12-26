@@ -1,0 +1,65 @@
+# =========================
+# Flutter / Dart
+# =========================
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Optional: coverage & test outputs
+coverage/
+test/.test_coverage.dart
+
+# Dart compiled JS (web)
+*.dart.js
+*.dart.js.map
+*.dart.js.deps
+*.dart.js.info
+
+# =========================
+# IDE / Editor
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Mac / Windows junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Android (Gradle / local configs)
+# =========================
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+
+# Keystore & signing files (jangan pernah di-push)
+*.jks
+*.keystore
+key.properties
+
+# =========================
+# iOS
+# =========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcframework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# =========================
+# Logs
+# =========================
+*.log
